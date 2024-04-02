@@ -1,0 +1,3 @@
+Eslint: Kiểm tra cứu pháp, phát hiện lỗi sai và gợi ý sửa chữa
+Prettier: Format code 
+Lint-staged: Cho phép chạy các công cụ kiểm tra mã nguồn như eslint, prettier trước khi commit 
